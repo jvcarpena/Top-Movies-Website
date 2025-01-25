@@ -1,4 +1,4 @@
-# Flask Movie App
+# Top 10 Movie App
 
 This is a Flask-based web application for managing a movie database. It allows users to add, edit, view, and delete movies. The app also integrates with an external movie API to fetch movie details and images.
 
